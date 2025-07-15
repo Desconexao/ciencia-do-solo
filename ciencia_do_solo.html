@@ -4,15 +4,80 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Ciência Do Solo</title>
-    <link rel="stylesheet" type="" href="./ciencia_do_solo.css" />
+    <link rel="stylesheet" href="./ciencia_do_solo.css" />
   </head>
   <body>
-    <section>
-      <h2>Ciência do Solo</h2>
-      <button type="">Jogar</button>
-      <button type="">Créditos</button>
-      <button type="">Referências</button>
-    </section>
+    <div class="container">
+      <div class="screen active main-menu-screen">
+        <h1>Ciência do Solo</h1>
+        <button class="btn play-btn">Jogar</button>
+        <button class="btn credits-btn">Créditos</button>
+      </div>
+
+      <div class="screen level-select-screen">
+        <h2>Escolha o nível</h2>
+        <button class="btn level-btn" data-level="0">
+          Nível 1: Principais Horizontes
+        </button>
+        <button class="btn level-btn" data-level="1">
+          Nível 2: Horizontes Superficiais
+        </button>
+        <button class="btn level-btn" data-level="2">
+          Nível 3: Horizontes Subsuperficiais
+        </button>
+        <button class="btn level-btn" data-level="3">
+          Nível 4: Classificação dos Solos
+        </button>
+        <button class="btn back-to-menu-btn">Voltar ao Menu</button>
+      </div>
+
+      <div class="screen game-screen">
+        <h2 class="quiz-title"></h2>
+        <div class="question-container"></div>
+        <div class="answers-container"></div>
+        <div class="game-footer">
+          <span class="score-text">Pontos: 0</span>
+          <span class="progress-text">Questão: 1 / 10 </span>
+        </div>
+        <button class="btn next-question-btn">Próxima Pergunta</button>
+        <button class="btn btn-secondary back-to-menu-btn">Sair</button>
+      </div>
+
+      <div class="screen results-screen">
+        <h2>Fim de Jogo!</h2>
+        <p class="final-score-text">Sua pontuação final é: 8 de 10.</p>
+        <button class="btn play-again-btn">Jogar Novamente</button>
+        <button class="btn btn-secondary back-to-menu-btn">
+          Menu Principal
+        </button>
+      </div>
+
+      <div class="screen credits-screen">
+        <h2>Créditos</h2>
+        <div class="credits-text">
+          <p><strong>Luis Eduardo Akiyoshi Sanches Suzuki</strong></p>
+          <p>Docente da Engenharia Hídrica da UFPel</p>
+          <br />
+          <p><strong>Vinicius da Paz Silva</strong></p>
+          <p>Graduando em Engenharia Hídrica pela UFPel</p>
+          <br />
+          <p><strong>Vinícius Lameirão de Lima</strong></p>
+          <p>Graduando em Ciência da Computação pela UFPel</p>
+        </div>
+        <div class="reference-text">
+          <h3>Referências</h3>
+          <p>
+            Santos, H.G.; Jacomine, P.K.T.; Anjos, L.H.; Oliveira, V.A.;
+            Lumbreras, J.F.,;Coelho, M.R.; Almeida, J.A.; Araujo Filho, J.C.;
+            Oliveira, J.B.; Cunha, T.J.F. Sistema brasileiro de classificação de
+            solos. Embrapa, Brasília, DF. 2018.
+          </p>
+        </div>
+        <button class="btn btn-secondary back-to-menu-btn">
+          Voltar ao Menu
+        </button>
+      </div>
+    </div>
+    <script src="./ciencia_do_solo.js"></script>
   </body>
-  <script src="./ciencia_do_solo.js"></script>
 </html>
