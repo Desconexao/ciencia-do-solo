@@ -161,7 +161,7 @@ p {
 }
 
 #next-question-btn {
-  display: none; /* Escondido até uma resposta ser selecionada */
+  display: none;
 }
 
 @media (max-width: 600px) {

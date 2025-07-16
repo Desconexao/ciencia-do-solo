@@ -6,7 +6,7 @@ class Quiz {
         questions: [
           {
             question:
-              "1. Camada subsuperficial com pouca influência de matéria orgânica",
+              "Camada subsuperficial com pouca influência de matéria orgânica",
             options: [
               "Horizonte C",
               "Horizonte R",
@@ -17,7 +17,7 @@ class Quiz {
           },
           {
             question:
-              "2. Camada com textura arenosa e cor clara por conta de perda de argila, óxidos de ferro e alumínio ou matéria orgânica",
+              "Camada com textura arenosa e cor clara por conta de perda de argila, óxidos de ferro e alumínio ou matéria orgânica",
             options: [
               "Horizonte A",
               "Horizonte E",
@@ -28,7 +28,7 @@ class Quiz {
           },
           {
             question:
-              "3. Camada constituída de restos orgânicos em condições de boa drenagem",
+              "Camada constituída de restos orgânicos em condições de boa drenagem",
             options: [
               "Horizonte O",
               "Horizonte H",
@@ -39,7 +39,7 @@ class Quiz {
           },
           {
             question:
-              "4. Camada de material consolidado, constituída de material rochoso",
+              "Camada de material consolidado, constituída de material rochoso",
             options: [
               "Horizonte R",
               "Horizonte H",
@@ -50,7 +50,7 @@ class Quiz {
           },
           {
             question:
-              "5. Camada constituída de restos orgânicos em condições de má drenagem",
+              "Camada constituída de restos orgânicos em condições de má drenagem",
             options: [
               "Horizonte E",
               "Horizonte H",
@@ -60,7 +60,7 @@ class Quiz {
             answer: "Horizonte H",
           },
           {
-            question: "6. Camada pouco afetada pelos processos pedogenéticos",
+            question: "Camada pouco afetada pelos processos pedogenéticos",
             options: [
               "Horizonte A",
               "Horizonte R",
@@ -70,7 +70,7 @@ class Quiz {
             answer: "Horizonte C",
           },
           {
-            question: "7. Camada mineral enriquecida por matéria orgânica",
+            question: "Camada mineral enriquecida por matéria orgânica",
             options: [
               "Horizonte O",
               "Horizonte E",
@@ -86,7 +86,7 @@ class Quiz {
         questions: [
           {
             question:
-              "1. Horizonte mineral; geralmente espesso; cor escura; baixa saturação por bases; agregação e grau de desenvolvimento moderado ou forte; teor de carbono orgânico ≥0.6%",
+              "Horizonte mineral; geralmente espesso; cor escura; baixa saturação por bases; agregação e grau de desenvolvimento moderado ou forte; teor de carbono orgânico ≥0.6%",
             options: [
               "Horizonte hístico",
               "Horizonte A proeminente",
@@ -97,7 +97,7 @@ class Quiz {
           },
           {
             question:
-              "2. Horizonte superficial; cor escura; espesso; formado ou modificado pelo uso contínuo e prolongado do solo pelo homem",
+              "Horizonte superficial; cor escura; espesso; formado ou modificado pelo uso contínuo e prolongado do solo pelo homem",
             options: [
               "Horizonte A moderado",
               "Horizonte A chernozêmico",
@@ -108,7 +108,7 @@ class Quiz {
           },
           {
             question:
-              "3. Horizonte sob condições de excesso de água por longos períodos; ou materiais depositados em condições de drenagem livre; sem estagnação de água; teor de carbono orgânico ≥8%",
+              "Horizonte sob condições de excesso de água por longos períodos; ou materiais depositados em condições de drenagem livre; sem estagnação de água; teor de carbono orgânico ≥8%",
             options: [
               "Horizonte A moderado",
               "Horizonte A húmico",
@@ -119,7 +119,7 @@ class Quiz {
           },
           {
             question:
-              "4. Horizonte com cores claras; teor de carbono ≤0.6% espessura estreita; estrutura fraca; nível de desenvolvimento baixo",
+              "Horizonte com cores claras; teor de carbono ≤ 0.6%; espessura estreita; estrutura fraca; nível de desenvolvimento baixo",
             options: [
               "Horizonte A fraco",
               "Horizonte A chernozêmico",
@@ -130,7 +130,7 @@ class Quiz {
           },
           {
             question:
-              "5. Horizonte que não se enquadra no conjunto de definições dos demais horizontes diagnósticos superficiais",
+              "Horizonte que não se enquadra no conjunto de definições dos demais horizontes diagnósticos superficiais",
             options: [
               "Horizonte A moderado",
               "Horizonte A húmico",
@@ -141,7 +141,7 @@ class Quiz {
           },
           {
             question:
-              "6. Horizonte mineral; cor escura; baixa saturação por base; maior conteúdo de carbono orgânico de acordo com a espessura e profundidade do solo",
+              "Horizonte mineral; cor escura; baixa saturação por base; maior conteúdo de carbono orgânico de acordo com a espessura e profundidade do solo",
             options: [
               "Horizonte A chernozêmico",
               "Horizonte A antrópico",
@@ -152,7 +152,7 @@ class Quiz {
           },
           {
             question:
-              "7. Horizonte mineral; cor escura; alta saturação por base; em maioria espesso; agregação e grau de desenvolvimento moderado ou forte; teor de carbono orgânico ≥0.6%",
+              "Horizonte mineral; cor escura; alta saturação por base; em maioria espesso; agregação e grau de desenvolvimento moderado ou forte; teor de carbono orgânico ≥0.6%",
             options: [
               "Horizonte hístico",
               "Horizonte A proeminente",
@@ -168,7 +168,7 @@ class Quiz {
         questions: [
           {
             question:
-              "1. Horizonte fortemente cimentado por sílica, óxido de ferro ou carbono de cálcio; quebradiço e consistência firme ou extremamente firme até mesmo úmido; raízes e água não penetram na parte cimentada",
+              "Horizonte fortemente cimentado por sílica, óxido de ferro ou carbono de cálcio; quebradiço e consistência firme ou extremamente firme até mesmo úmido; raízes e água não penetram na parte cimentada",
             options: [
               "Horizonte plíntico",
               "Fragipä",
@@ -179,7 +179,7 @@ class Quiz {
           },
           {
             question:
-              "2. Horizonte com mudança textural abrupta; estrutura prismática, colunar ou em blocos; permeabilidade lenta ou muito lenta; pode ser responsável pela formação de lençol d'água; elevados teores de argila dispersa em água; cores acinzentadas ou escurecidas com ou sem mosqueados",
+              "Horizonte com mudança textural abrupta; estrutura prismática, colunar ou em blocos; permeabilidade lenta ou muito lenta; pode ser responsável pela formação de lençol d'água; elevados teores de argila dispersa em água; cores acinzentadas ou escurecidas com ou sem mosqueados",
             options: [
               "Horizonte glei",
               "Horizonte B espódico",
@@ -190,7 +190,7 @@ class Quiz {
           },
           {
             question:
-              "3. Horizonte em estágio avançado de intemperização; intensa dessilicação, lixiviação de bases e concentração de óxidos de ferro e alumínio; minerais resistentes ao intemperismo; argilominerais tipo 1:1; textura franco arenosa ou mais fina; baixo teores de silte; espessura ≥50cm",
+              "Horizonte em estágio avançado de intemperização; intensa dessilicação, lixiviação de bases e concentração de óxidos de ferro e alumínio; minerais resistentes ao intemperismo; argilominerais tipo 1:1; textura franco arenosa ou mais fina; baixo teores de silte; espessura ≥50cm",
             options: [
               "Horizonte vértico",
               "Horizonte B incipiente",
@@ -201,7 +201,7 @@ class Quiz {
           },
           {
             question:
-              "4. Horizonte endurecido quando seco, porém diminui a rigidez quando úmido; textura média; teor de matéria orgânica muito baixo; pode dificultar ou impedir a penetração de raízes e da água",
+              "Horizonte endurecido quando seco, porém diminui a rigidez quando úmido; textura média; teor de matéria orgânica muito baixo; pode dificultar ou impedir a penetração de raízes e da água",
             options: [
               "Horizonte B espódico",
               "Duripä",
@@ -212,7 +212,7 @@ class Quiz {
           },
           {
             question:
-              "5. Horizonte com acúmulo de argila por conta do processo de eluviação-iluviação de argila; textura francoarenosa ou mais fina",
+              "Horizonte com acúmulo de argila por conta do processo de eluviação-iluviação de argila; textura francoarenosa ou mais fina",
             options: [
               "Horizonte B latossólico",
               "Horizonte B nítico",
@@ -223,7 +223,7 @@ class Quiz {
           },
           {
             question:
-              "6. Horizonte de acumulação de carbonato de cálcio; possui espessura ≥ 15cm; contém CaCO3≥15%",
+              "Horizonte de acumulação de carbonato de cálcio; possui espessura ≥ 15cm; contém CaCO3≥15%",
             options: [
               "Horizonte B nítico",
               "Horizonte vértico",
@@ -234,7 +234,7 @@ class Quiz {
           },
           {
             question:
-              "7. Horizonte com espessura > 15cm; formado pela oxidação de minerais ou orgânicos ricos em sulfetos; acidez altamente tóxica para a maioria das plantas",
+              "Horizonte com espessura > 15cm; formado pela oxidação de minerais ou orgânicos ricos em sulfetos; acidez altamente tóxica para a maioria das plantas",
             options: [
               "Horizonte B incipiente",
               "Horizonte plíntico",
@@ -245,7 +245,7 @@ class Quiz {
           },
           {
             question:
-              "8. Horizonte apresenta pouca alteração física e química, porém o suficiente para suficiente para o desenvolvimento de cor e estrutura; espessura ≥10cm; mais da metade do volume dos sub-horizontes não deve consistir em estrutura da rocha original",
+              "Horizonte apresenta pouca alteração física e química, porém o suficiente para o desenvolvimento de cor e estrutura; espessura ≥ 10cm; mais da metade do volume dos sub-horizontes não deve consistir em estrutura da rocha original",
             options: [
               "Horizonte vértico",
               "Horizonte B latossólico",
@@ -256,7 +256,7 @@ class Quiz {
           },
           {
             question:
-              "9. Horizonte de textura argilosa ou muito argilosa; não hidromórfico; transição gradual ou difusa entre OS sub-horizontes; estrutura em blocos ou prismática em grau de desenvolvimento moderado ou forte; grau de cerosidade moderado ou forte, na forma de superfícies reluzentes",
+              "Horizonte de textura argilosa ou muito argilosa; não hidromórfico; transição gradual ou difusa entre os sub-horizontes; estrutura em blocos ou prismática em grau de desenvolvimento moderado ou forte; grau de cerosidade moderado ou forte, na forma de superfícies reluzentes",
             options: [
               "Horizonte B textural",
               "Horizonte B latossólico",
@@ -267,7 +267,7 @@ class Quiz {
           },
           {
             question:
-              "10. Horizonte caracterizado pela presença de plintita em quantidade ≥15%; espessura ≥15cm; cor geralmente variegada; quando seco é muito compacto, duro a extremamente duro; quando úmido é firme ou muito firme",
+              "Horizonte caracterizado pela presença de plintita em quantidade ≥ 15%; espessura ≥ 15cm; cor geralmente variegada; quando seco é muito compacto, duro a extremamente duro; quando úmido é firme ou muito firme",
             options: [
               "Horizonte plíntico",
               "Horizonte B espódico",
@@ -278,7 +278,7 @@ class Quiz {
           },
           {
             question:
-              "11. Horizonte constituído por 50% ou mais de material grosseiro; predomínio de petroplintita; espessura ≥30cm",
+              "Horizonte constituído por 50% ou mais de material grosseiro; predomínio de petroplintita; espessura ≥ 30cm",
             options: [
               "Horizonte plíntico",
               "Horizonte vértico",
@@ -289,7 +289,7 @@ class Quiz {
           },
           {
             question:
-              "12. Horizonte apresenta acúmulo iluvial de matéria orgânica; podzolização, favorecidos em solos arenosos com pH muito ácido",
+              "Horizonte apresenta acúmulo iluvial de matéria orgânica; podzolização, favorecidos em solos arenosos com pH muito ácido",
             options: [
               "Horizonte álbico",
               "Horizonte B espódico",
@@ -300,7 +300,7 @@ class Quiz {
           },
           {
             question:
-              "13. Horizonte de cor clara; muito empobrecido de argila, matéria orgânica e óxidos de ferro; espessura > 1cm",
+              "Horizonte de cor clara; muito empobrecido de argila, matéria orgânica e óxidos de ferro; espessura >= 1cm",
             options: [
               "Horizonte álbico",
               "Horizonte B latossólico",
@@ -311,7 +311,7 @@ class Quiz {
           },
           {
             question:
-              "14. Horizonte argiloso ou muito argiloso; argila tipo 2:1 expansiva; slickensides; cores escuras, acinzentadas, amareladas ou avermelhadas; muito ou extremamente duro quando seco; plástico a muito pegajoso quando úmido; em certas épocas possui fendas > 1cm de largura; possui espessura ≥20cm",
+              "Horizonte argiloso ou muito argiloso; argila tipo 2:1 expansiva; slickensides; cores escuras, acinzentadas, amareladas ou avermelhadas; muito ou extremamente duro quando seco; plástico a muito pegajoso quando úmido; em certas épocas possui fendas >= 1cm de largura; possui espessura ≥ 20cm",
             options: [
               "Horizonte glei",
               "Horizonte vértico",
@@ -322,7 +322,7 @@ class Quiz {
           },
           {
             question:
-              "15. Horizontes de cores acinzentadas claras ou escuras; reações de redução de ferro; espessura > 15cm; virtualmente livre de oxigênio por conta da estagnação d'água durante um extenso período",
+              "Horizontes de cores acinzentadas claras ou escuras; reações de redução de ferro; espessura >= 15cm; virtualmente livre de oxigênio por conta da estagnação d'água durante um extenso período",
             options: [
               "Horizonte glei",
               "Horizonte álbico",
@@ -338,13 +338,13 @@ class Quiz {
         questions: [
           {
             question:
-              "1. Sequência: A->R; A->C; A->C->R; A->Cr->R; 0->R; H->C • Solos minerais ou orgânicos; pouco desenvolvido; pouca profundidade, com espessura ≤20cm; geralmente ocorre em regiões de relevo forte ondulado ou montanhoso",
+              "Sequência: A->R; A->C; A->C->R; A->Cr->R; 0->R; H->C • Solos minerais ou orgânicos; pouco desenvolvido; pouca profundidade, com espessura ≤20cm; geralmente ocorre em regiões de relevo forte ondulado ou montanhoso",
             options: ["Cambissolos", "Neossolos", "Organossolos", "Luvissolos"],
             answer: "Neossolos",
           },
           {
             question:
-              "2. Sequência: A->Bf->C • Solos minerais; horizonte B com coloração mosqueada ou concreções cimentadas; relevo plano a suave ondulado; saturação temporária e oscilações do lençol freático; normalmente ácidos; baixa saturação por bases",
+              "Sequência: A->Bf->C • Solos minerais; horizonte B com coloração mosqueada ou concreções cimentadas; relevo plano a suave ondulado; saturação temporária e oscilações do lençol freático; normalmente ácidos; baixa saturação por bases",
             options: [
               "Vertissolos",
               "Chernossolos",
@@ -355,7 +355,7 @@ class Quiz {
           },
           {
             question:
-              "3. Sequência: A->Bt->C; A->E->Bt->C • Solos minerais; horizonte B textural; argila de atividade baixa ou alta; profundos a muito profundos; saturação por bases baixa ou caráter alítico; relevo suave ondulado a forte ondulado; distrófico; forte acidez; alta saturação por alumínio",
+              "Sequência: A->Bt->C; A->E->Bt->C • Solos minerais; horizonte B textural; argila de atividade baixa ou alta; profundos a muito profundos; saturação por bases baixa ou caráter alítico; relevo suave ondulado a forte ondulado; distrófico; forte acidez; alta saturação por alumínio",
             options: [
               "Organossolos",
               "Gleissolos",
@@ -366,7 +366,7 @@ class Quiz {
           },
           {
             question:
-              "4. Horizonte Bh imediatamente abaixo do horizonte E ou A. Horizonte mineral apresenta acumulação iluvial de matéria orgânica; podzolização, favorecido em solos arenosos com pH muito ácido",
+              "Horizonte Bh imediatamente abaixo do horizonte E ou A. Horizonte mineral apresenta acumulação iluvial de matéria orgânica; podzolização, favorecido em solos arenosos com pH muito ácido",
             options: [
               "Latossolos",
               "Vertissolos",
@@ -377,7 +377,7 @@ class Quiz {
           },
           {
             question:
-              "5. Sequência: A->Bt->C; A->Bi->C • Solos minerais; horizonte superficial escuro; rasos a profundos; teores de material orgânico razoáveis; alta fertilidade química; argila de atividade alta; alta CTC em todo o perfil",
+              "Sequência: A->Bt->C; A->Bi->C • Solos minerais; horizonte superficial escuro; rasos a profundos; teores de material orgânico razoáveis; alta fertilidade química; argila de atividade alta; alta CTC em todo o perfil",
             options: [
               "Cambissolos",
               "Chernossolos",
@@ -388,7 +388,7 @@ class Quiz {
           },
           {
             question:
-              "6. Sequência: A->Cv; A->Biv->Cv • Solos minerais; pequena variação de textura ao longo do perfil; cores escuras ou cinzentas; argilominerais expansivos; extremamente duros quando secos e muito plásticos e pegajosos quando úmidos; pH ligeiramente alto; elevada fertilidade natural; elevada CTC",
+              "Sequência: A->Cv; A->Biv->Cv • Solos minerais; pequena variação de textura ao longo do perfil; cores escuras ou cinzentas; argilominerais expansivos; extremamente duros quando secos e muito plásticos e pegajosos quando úmidos; pH ligeiramente alto; elevada fertilidade natural; elevada CTC",
             options: [
               "Vertissolos",
               "Espodossolos",
@@ -399,25 +399,25 @@ class Quiz {
           },
           {
             question:
-              "7. Sequência: A->B->C • Solos minerais; profundos; solos ácidos; argila de atividade baixa ou caráter alítico; transição difusa ou gradual entre os horizontes; estrutura de blocos angulares ou subangulares com revestimento reluzente; predomínio de caulinita e óxidos de ferro",
+              "Sequência: A->B->C • Solos minerais; profundos; solos ácidos; argila de atividade baixa ou caráter alítico; transição difusa ou gradual entre os horizontes; estrutura de blocos angulares ou subangulares com revestimento reluzente; predomínio de caulinita e óxidos de ferro",
             options: ["Cambissolos", "Planossolos", "Latossolos", "Nitossolos"],
             answer: "Nitossolos",
           },
           {
             question:
-              "8. Sequência: A->E->Bt->C • Solos minerais; imperfeitamente ou mal drenados; relevo plano a suave ondulado; mudança textural abrupta; com ou sem mosqueados; apto para o cultivo de arroz inundado",
+              "Sequência: A->E->Bt->C • Solos minerais; imperfeitamente ou mal drenados; relevo plano a suave ondulado; mudança textural abrupta; com ou sem mosqueados; apto para o cultivo de arroz inundado",
             options: ["Planossolos", "Espodossolos", "Latossolos", "Neossolos"],
             answer: "Planossolos",
           },
           {
             question:
-              "9. Horizonte H hístico • Espessura ≥40cm solo constituído de material orgânico; baixa densidade do solo",
+              "Horizonte H hístico • Espessura ≥40cm solo constituído de material orgânico; baixa densidade do solo",
             options: ["Gleissolos", "Luvissolos", "Argissolos", "Organossolos"],
             answer: "Organossolos",
           },
           {
             question:
-              "10. Sequência: A->Bw->C • Solos minerais; bem drenados; profundos ou muito profundos; muito intemperizados; transição difusa ou gradual; baixa reserva de nutrientes; acidez acentuada; toxidez por alumínio para as plantas",
+              "Sequência: A->Bw->C • Solos minerais; bem drenados; profundos ou muito profundos; muito intemperizados; transição difusa ou gradual; baixa reserva de nutrientes; acidez acentuada; toxidez por alumínio para as plantas",
             options: [
               "Nitossolos",
               "Planossolos",
@@ -428,19 +428,19 @@ class Quiz {
           },
           {
             question:
-              "11. Sequência: A->Cg; A->Bg->Cg; H->Cg • Solos minerais; pouco profundos a profundos; mal drenados; cor acinzentada ou preta",
+              "Sequência: A->Cg; A->Bg->Cg; H->Cg • Solos minerais; pouco profundos a profundos; mal drenados; cor acinzentada ou preta",
             options: ["Luvissolos", "Gleissolos", "Cambissolos", "Neossolos"],
             answer: "Gleissolos",
           },
           {
             question:
-              "12. Sequência: A->Bi->C; O->A->Bi->C • Solos minerais; rasos a profundos; solo em processo incipiente de formação; presença de fragmentos de rocha; bem drenados a imperfeitamente drenados",
+              "Sequência: A->Bi->C; O->A->Bi->C • Solos minerais; rasos a profundos; solo em processo incipiente de formação; presença de fragmentos de rocha; bem drenados a imperfeitamente drenados",
             options: ["Neossolos", "Latossolos", "Cambissolos", "Nitossolos"],
             answer: "Cambissolos",
           },
           {
             question:
-              "13. Sequência: A->Bt->C • Solos minerais; pouco profundos; acumulação subsuperficial de argila; bem a imperfeitamente drenados; boa fertilidade química natural, que está relacionada ao teor de argila e de matéria orgânica; alta saturação por bases",
+              "Sequência: A->Bt->C • Solos minerais; pouco profundos; acumulação subsuperficial de argila; bem a imperfeitamente drenados; boa fertilidade química natural, que está relacionada ao teor de argila e de matéria orgânica; alta saturação por bases",
             options: ["Chernossolos", "Luvissolos", "Vertissolos", "Neossolos"],
             answer: "Luvissolos",
           },
@@ -518,23 +518,37 @@ class Quiz {
   displayQuestion() {
     this.nextQuestionButton.style.display = "none";
     this.answersContainer.innerHTML = "";
+
     const questionData = this.currentQuiz.questions[this.currentQuestionIndex];
+    const correctAnswer = questionData.answer;
+
     this.questionContainer.innerHTML = questionData.question.replace(
       /•/g,
       "<br>•",
     );
     this.progressText.textContent = `Questão ${this.currentQuestionIndex + 1} / ${this.currentQuiz.questions.length}`;
 
-    const shuffledOptions = [...questionData.options].sort(
-      () => Math.random() - 0.5,
+    const allAnswersInLevel = [
+      ...new Set(this.currentQuiz.questions.map((q) => q.answer)),
+    ];
+
+    const distractors = allAnswersInLevel.filter(
+      (ans) => ans !== correctAnswer,
     );
 
-    shuffledOptions.forEach((option) => {
+    const shuffledDistractors = distractors.sort(() => Math.random() - 0.5);
+    const selectedDistractors = shuffledDistractors.slice(0, 3);
+
+    let finalOptions = [correctAnswer, ...selectedDistractors];
+
+    finalOptions.sort(() => Math.random() - 0.5);
+
+    finalOptions.forEach((option) => {
       const button = document.createElement("button");
       button.textContent = option;
       button.classList.add("answer-btn");
       button.addEventListener("click", () =>
-        this.selectAnswer(button, option, questionData.answer),
+        this.selectAnswer(button, option, correctAnswer),
       );
       this.answersContainer.appendChild(button);
     });
