@@ -31,7 +31,7 @@ Um jogo de flashcards interativo e dinâmico, criado como uma ferramenta de estu
 1. **Clone o repositório:**
 
     ```bash.
-    git clone [https://github.com/Desconexao/ciencia-do-solo.git](https://github.com/Desconexao/ciencia-do-solo.git)
+    git clone https://github.com/Desconexao/ciencia-do-solo.git
     ```
 
 2. **Navegue até a pasta do projeto:**
