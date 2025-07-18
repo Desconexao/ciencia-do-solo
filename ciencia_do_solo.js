@@ -85,7 +85,7 @@ class Quiz {
           {
             question:
               "Horizonte fortemente cimentado por sílica, óxido de ferro ou carbono de cálcio; quebradiço e consistência firme ou extremamente firme até mesmo úmido; raízes e água não penetram na parte cimentada",
-            answer: "Duripãn",
+            answer: "Duripã",
           },
           {
             question:
@@ -100,7 +100,7 @@ class Quiz {
           {
             question:
               "Horizonte endurecido quando seco, porém diminui a rigidez quando úmido; textura média; teor de matéria orgânica muito baixo; pode dificultar ou impedir a penetração de raízes e da água",
-            answer: "Fragipãn",
+            answer: "Fragipã",
           },
           {
             question:
