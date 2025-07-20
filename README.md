@@ -1,75 +1,75 @@
-# Jogo de Flashcards - Ciência do Solo 🧪
+# Flashcard Game - Soil Science 🧪
 
-![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-green)
+![Status](https://img.shields.io/badge/status-completed-green)
 
-Um jogo de flashcards interativo e dinâmico, criado como uma ferramenta de estudo para a disciplina de Ciência do Solo. O projeto foi desenvolvido com base em um material de estudo em PDF e transformado em uma aplicação web leve e responsiva.
+An interactive and dynamic flashcard game, created as a study tool for the Soil Science discipline. The project was developed based on a PDF study material and transformed into a lightweight and responsive web application.
 
-![Demonstração do Jogo](./quiz.png)
-
----
-
-## ✨ Funcionalidades
-
-- **Quiz Interativo**: Quatro níveis de dificuldade crescente, baseados nos tópicos do material de estudo.
-- **Aleatoriedade Total**: A ordem das perguntas e das opções de resposta é embaralhada a cada nova partida.
-- **Geração Inteligente de Respostas**: As opções incorretas são sorteadas do conjunto total de respostas do nível, tornando o desafio mais realista.
-- **Feedback Instantâneo**: O jogador recebe feedback visual imediato (correto ou incorreto) ao escolher uma resposta.
-- **Design Responsivo**: Interface que se adapta a desktops, tablets e dispositivos móveis.
+![Game Demonstration](./quiz.png)
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## ✨ Features
+
+- **Interactive Quiz**: Four levels of increasing difficulty, based on the topics of the study material.
+- **Total Randomness**: The order of questions and answer options is shuffled with each new game.
+- **Intelligent Answer Generation**: Incorrect options are drawn from the total set of answers for the level, making the challenge more realistic.
+- **Instant Feedback**: The player receives immediate visual feedback (correct or incorrect) when choosing an answer.
+- **Responsive Design**: An interface that adapts to desktops, tablets, and mobile devices.
+
+---
+
+## 🛠️ Technologies Used
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (ES6+)**: Lógica encapsulada em uma classe `Quiz`, seguindo boas práticas de orientação a objetos.
+- **JavaScript (ES6+)**: Logic encapsulated in a `Quiz` class, following good object-oriented programming practices.
 
 ---
 
-## 🚀 Como Rodar o Projeto
+## 🚀 How to Run the Project
 
-1. **Clone o repositório:**
+1.  **Clone the repository:**
 
-    ```bash.
+    ```bash
     git clone https://github.com/Desconexao/ciencia-do-solo.git
     ```
 
-2. **Navegue até a pasta do projeto:**
+2.  **Navigate to the project folder:**
 
     ```bash
     cd ciencia-do-solo
     ```
 
-3. **Abra o arquivo `index.html`:**
-    A maneira mais simples é clicar duas vezes no arquivo `index.html` para abri-lo diretamente no seu navegador. Ou, para uma melhor experiência, use um servidor local como o `live-server`.
+3.  **Open the `index.html` file:**
+    The simplest way is to double-click the `index.html` file to open it directly in your browser. Or, for a better experience, use a local server like `live-server`.
 
 ---
 
-## 🧠 Lógica do Jogo
+## 🧠 Game Logic
 
-A interatividade do quiz é controlada pela classe `Quiz` em `ciencia_do_solo.js`. Os aspectos mais interessantes da lógica são:
+The quiz's interactivity is controlled by the `Quiz` class in `ciencia_do_solo.js`. The most interesting aspects of the logic are:
 
-#### Aleatoriedade
+#### Randomness
 
-Para garantir que cada partida seja única, o embaralhamento (`.sort(() => Math.random() - 0.5)`) é usado em dois locais:
+To ensure that each game is unique, shuffling (`.sort(() => Math.random() - 0.5)`) is used in two places:
 
-1. **Ordem das Perguntas**: No início de cada nível.
-2. **Ordem das Respostas**: Para cada pergunta exibida.
+1.  **Order of Questions**: At the beginning of each level.
+2.  **Order of Answers**: For each question displayed.
 
-#### Geração Inteligente de Respostas
+#### Intelligent Answer Generation
 
-As opções incorretas são geradas dinamicamente para aumentar o desafio:
+The incorrect options are dynamically generated to increase the challenge:
 
-1. O sistema pega a **resposta correta** da pergunta atual.
-2. Cria uma "piscina" com todas as outras respostas possíveis do nível.
-3. **Sorteia 3 respostas** incorretas.
-4. As 4 opções (1 correta + 3 incorretas) são então embaralhadas e exibidas.
+1.  The system takes the **correct answer** for the current question.
+2.  It creates a "pool" with all other possible answers from that level.
+3.  **It draws 3 incorrect answers** from this pool.
+4.  The 4 options (1 correct + 3 incorrect) are then shuffled and displayed.
 
 ---
 
-## 👥 Créditos
+## 👥 Credits
 
-Este projeto foi baseado no material de estudo e desenvolvido por:
+This project was based on study material and developed by:
 
-- **Material Original**: Profs. Luis Eduardo Akiyoshi Sanches Suzuki (UFPel) e Leomar Soares da Rosa Junior (UFPel).
-- **Desenvolvimento e Adaptação**: Vinicius da Paz Silva (UFPel) e Vinícius Lameirão de Lima (UFPel).
+-   **Original Material**: Profs. Luis Eduardo Akiyoshi Sanches Suzuki (UFPel) and Leomar Soares da Rosa Junior (UFPel).
+-   **Development and Adaptation**: Vinicius da Paz Silva (UFPel) and Vinícius Lameirão de Lima (UFPel).
